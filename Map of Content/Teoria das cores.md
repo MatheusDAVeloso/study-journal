@@ -10,3 +10,9 @@ valor/brilho -> quão claro ou escuro ela está
 Saturação e valor estão sempre interligados
 
 Na pintura de cor (não luz), não necessariamente misturar duas cores sempre vão resultar em uma cor determinada, pois as cores já vem com mistura
+
+---
+## Referências
+1. https://www.youtube.com/watch?v=mGgZpJA-IE0&t=7s # A Teoria das Cores de Goethe - Parte I - Como tudo começou
+2. https://www.youtube.com/watch?v=fKlusKxSHCg # A Teoria das Cores de Goethe - Parte II - Cores Fisiológicas
+3. https://www.youtube.com/watch?v=oyLF3B6hazE # Explorando a Teoria e a Prática da COR: Tudo o que você precisa saber!

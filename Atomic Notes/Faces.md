@@ -29,3 +29,9 @@ Enquanto estiver dentro do ambiente Blender e apenas você for mexer nessa model
 **Quando não se utilizar**
 1. Quando exportar para uma Engine, onde tudo vira triângulo e você perde a precisão do modelo. Com quads e tris você tem mais controle de como vai ficar.
 2. Ao mandar para outro artista, visto que alguns [[Programa]] não suportam, é mais fácil de quebrar o visual e não são bons para animação.
+
+---
+## Referências
+1. https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html
+2. https://blender.stackexchange.com/questions/89/when-should-n-gons-be-used-and-when-shouldnt-they
+3. Claude IA
