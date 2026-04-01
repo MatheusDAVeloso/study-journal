@@ -48,6 +48,6 @@ Utilizar após um comando que traz uma lista.
 
 ---
 ## Referências
-1. Claude IA
+1. Claude (Anthropic) utilizado para verificação e validação de respostas
 2. https://linuxcommand.org/lc3_lts0010.php
 3. https://linuxcommand.org/lc3_lts0020.php
