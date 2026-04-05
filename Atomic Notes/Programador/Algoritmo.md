@@ -1,14 +1,12 @@
 # Algoritmo
 
 ---
-## Criador/Descobridor
-
----
 ## Definição
 Sequência de instruções precisas e específicas sobre como fazer algo, pegando algum valor como input e produzindo um valor como output em uma finita quantidade de tempo.
 Pode ser vista como uma ferramenta para resolver um problema em bem especificado.
 
-## Tipos de algoritmos
+---
+## Tipos
 
 **Algoritmo correto**
 É aquele que dado um input, consegue ter um output certo que resolve o problema para o qual foi desenvolvido em uma quantidade finita de tempo.

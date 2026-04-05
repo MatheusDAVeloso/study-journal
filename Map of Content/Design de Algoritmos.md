@@ -1,9 +1,6 @@
 # Design de Algoritmos
 
 ---
-## Criador/Descobridor
-
----
 ## Definição
 Usar a [[Estrutura de dados]] apropriada é uma parte importante para o design de [[Algoritmo]]. Você deve escolher [[Algoritmo]] que utiliza os recursos de tempo (processamento) e espaço (memória) de forma eficiente.  
 

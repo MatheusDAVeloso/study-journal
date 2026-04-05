@@ -1,9 +1,6 @@
 # Faces
 
 ---
-## Criador/Descobridor
-
----
 ## Definição
 Junção de 3 ou mais [[Aresta]], sendo visíveis na renderização.
 
