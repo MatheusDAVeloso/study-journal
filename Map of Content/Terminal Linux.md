@@ -9,7 +9,15 @@ Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um supe
 ## **Organização de diretórios**
 Toda navegação de sistema Unix-like começa na pasta root. Que é a primeira pasta. Uma diferença importante para sistema Unix-like do Windows, é que o Windows armazena os diretórios em várias árvores, um para cada dispositivo, o Linux tem apenas um.
 
-### **Comandos**
+---
+## **Comandos**
+1. Navegação de diretório
+2. Execução de [[Programa]]
+3. Limpeza do [[Terminal]]
+4. Filtragem
+
+### 1. Navegação de diretório
+
 `pwd` — print work directory — mostra o caminho completo até o diretório atual
 
 `cd` — change directory
@@ -24,25 +32,19 @@ Toda navegação de sistema Unix-like começa na pasta root. Que é a primeira p
 
 `mkdir <directory-name>` — make directory
 
----
-## Execução de [[Programa]]
+### 2. Execução de [[Programa]]
 
-### Comandos
 `<program-name> .` — do sistema ou integrado a ele 
 `./<file-name>` — criado por um usuário
 
----
-## Limpeza
+### 3. Limpeza do [[Terminal]]
 
-### Comandos
 `ctrl + l` ou `clear`
 
----
+### 4. Filtragem
 
-## Filtros
 Utilizar após um comando que traz uma lista.
 
-### Comandos
 `| grep 'name'` — filtra pela nomenclatura entre aspas simples
 
 

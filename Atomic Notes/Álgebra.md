@@ -14,14 +14,46 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 Álgebra é uma palavra árabe que significa restauração ou preenchimento.
 
 ---
-## Conexões
-- “A filosofia está escrita naquele grande livro que sempre esteve diante dos nossos olhos — quero dizer, o universo — mas não podemos compreendê-lo se não aprendermos primeiro a língua e não dominarmos os símbolos em que está escrito. O livro está escrito em linguagem matemática, e os símbolos são triângulos, círculos e outras figuras geométricas, sem cuja ajuda é impossível compreender uma única palavra dele; sem os quais se vaga em vão por um labirinto escuro.” — Galileu Galilei, _Il Saggiatore_ (1623) — tradução do italiano para o português via inglês.
-- "A matemática é a linguagem com a qual Deus escreveu o universo" — atribuída a Galileu Galilei, origem não verificada — traduzido do inglês para o português.
+## Utilidade
+A Álgebra serve para resolver problemas de forma criativa, utilizando o que vai se aprendendo como pequenos pedaços de construção para edificar algo maior — por isso há diversas formas de se chegar a uma mesma conclusão.
 
-"Ou seja, se você existe em um universo criado por Deus e o próprio Deus utilizou de matemática para construir, como você quer viver em sua criação sem saber o básico da base onde você mesmo está pisando — "sem os quais se vaga em vão por um labirinto escuro". É como se você quisesse construir uma peça de Lego porém sem manual nenhum — você até pode conseguir encaixar algumas peças mas você não sabe o que está fazendo e nem onde vai chegar. Porém, como não podemos tocar nessa linguagem e é algo que nós humanos não podemos compreender, simplificamos através da [[Abstração]] para podermos fazer anotações a esse livro e compreender muitas de suas infinitas páginas." - Matheus A. Veloso, 2026 — sem utilização de IA para esse raciocínio
+---
+## Conteúdo
+1. **Expressão algébrica**
+2. **Equação**
+
+### 1. Expressão algébrica
+É uma [[Matemática#1. Expressão numérica|expressão numérica]] com adição de variáveis. As variáveis são letras ou símbolos utilizadas para fins de [[Abstração]].
+
+> [!EXAMPLE] Exemplo
+> 
+> Uma loja de produtos tem como fórmula: $desconto = 30\% \cdot 20,00$
+> 
+> Podemos abstrair o preço com uma variável $x$ para podermos utilizá-la para qualquer valor:
+> $desconto = 30\% \cdot x$
+> 
+> Agora podemos abstrair a porcentagem para uma variável $p$ para podermos aplicar outras diferentes:
+> $desconto = p \cdot x$
+> 
+> Podemos transformar desconto em uma variável também, como $y$:
+> **$y = p \cdot x$**
+> 
+> E assim chegamos em uma fórmula onde podemos manipulá-la. Por exemplo, se ambos os lados são iguais, se eu dividir $y$ por $x$, o outro lado também deve ser dividido:
+> 
+> $$\frac{y}{x} = \frac{p \cdot x}{x}$$
+> 
+> **Dica:** se algo multiplica por $x$ e depois divide por $x$, o resultado volta a ser o número inicial. Logo, ambos os $x$ podem ser anulados, resultando na seguinte expressão:
+> 
+> $$\frac{y}{x} = p$$
+> 
+> É assim que, ao abstrair, chegamos onde a física chegou. " $F = m \cdot a$ " pode ser " $y = p \cdot x$ " sem nenhum problema. E uma fórmula que inicialmente [[Abstração|abstraímos]] os valores, agora chegou em um nível que abstraímos a sua área utilizada, podendo estar nas áreas de economia, engenharia, dentre outras áreas.
+
+### 2. Equação
+É uma sentença matemática que estabelece uma igualdade entre duas expressões algébricas.
 
 ---
 ## Referências
 1. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/origins-of-algebra # Khan Academy - Origins of Algebra
-2. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra $ Khan Academy - The beauty of algebra
+2. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/creativity-important-in-algebra # Creativy Important in Algebra
 3. Claude (Anthropic) utilizado para verificação e validação de respostas
+4. Gemini utilizado para formatação de texto
