@@ -16,6 +16,6 @@ Pode ser vista como uma ferramenta para resolver um problema em bem especificado
 
 ---
 ## Referências
-1. https://video.cs50.io/3LPJfIKxwWc?screen=lYXslYwNc8g&start=3925 # CS50 Semana 0
+1. [CS50 Semana 0](https://video.cs50.io/3LPJfIKxwWc?screen=lYXslYwNc8g&start=3925)
 2. Book — Introduction to Algorithms, 4th Edition — Cormen, Leiserson, Rivest, Stein (CLRS)
-3. https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/introducao-a-algoritmos/ # Curso em Vídeo — Aula 1 – Introdução a Algoritmos
+3. [Curso em Vídeo — Aula 1 – Introdução a Algoritmos](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/introducao-a-algoritmos/)
