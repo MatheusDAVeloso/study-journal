@@ -1,5 +1,0 @@
-# {{title}} 
-
----
-## Referências
-1. 
