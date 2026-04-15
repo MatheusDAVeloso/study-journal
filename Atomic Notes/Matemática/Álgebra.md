@@ -15,7 +15,7 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 
 ---
 ## Utilidade
-A Álgebra serve para resolver problemas de forma criativa, utilizando o que vai se aprendendo como pequenos pedaços de construção para edificar algo maior — por isso há diversas formas de se chegar a uma mesma conclusão.
+É tudo sobre resolver problemas. Com a Álgebra, podemos utilizar formas criativas juntando o que vai se aprendendo como pequenos pedaços de construção para edificar algo maior — por isso há diversas formas de se chegar a uma mesma conclusão.
 
 ---
 ## Conteúdo
@@ -23,7 +23,7 @@ A Álgebra serve para resolver problemas de forma criativa, utilizando o que vai
 2. **Equação**
 
 ### 1. Expressão algébrica
-É uma [[Matemática#1. Expressão numérica|expressão numérica]] com adição de variáveis. As variáveis são letras ou símbolos utilizadas para fins de [[Abstração]].
+É uma [[Matemática#1. Expressão numérica|expressão numérica]] com adição de [[Variável]].
 
 > [!EXAMPLE] Exemplo
 > 
@@ -53,7 +53,5 @@ A Álgebra serve para resolver problemas de forma criativa, utilizando o que vai
 
 ---
 ## Referências
-1. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/origins-of-algebra # Khan Academy - Origins of Algebra
-2. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/creativity-important-in-algebra # Creativy Important in Algebra
-3. Claude (Anthropic) utilizado para verificação e validação de respostas
-4. Gemini utilizado para formatação de texto
+1. [Khan Academy — Origins of Algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/origins-of-algebra)
+2. [Khan Academy — Creativy Important in Algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/creativity-important-in-algebra)

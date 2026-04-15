@@ -11,4 +11,4 @@ Puxar textos para o terminal —  o mesmo que `Ctrl + c` e `Ctrl + v`
 
 ---
 ## Referências
-1. https://linuxcommand.org/lc3_lts0010.php
+1. [linuxcommand.org — What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)

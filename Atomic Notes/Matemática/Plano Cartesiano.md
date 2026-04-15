@@ -23,4 +23,4 @@ Tanto o plano cartesiano e as coordenadas cartesianas foram nomeadas assim porqu
 ---
 
 ## Referências
-1.  https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates # Intro to the coordinate plane
+1.  [Khan Academy —  Intro to the coordinate plane](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/descartes-and-cartesian-coordinates)

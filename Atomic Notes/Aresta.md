@@ -6,4 +6,4 @@ Junção de 2 [[Vértices]] invisíveis na renderização
 
 ---
 ## Referências
-1. https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html
+1. [docs.blender.org — Edges](https://docs.blender.org/manual/en/latest/modeling/meshes/structure.html#edges)

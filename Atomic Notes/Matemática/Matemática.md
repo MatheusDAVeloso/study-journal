@@ -14,10 +14,11 @@
 ---
 ## Conteúdo
 1. Expressão numérica
+2. [[Variável]]
 
 ### 1. Expressão numérica
 Uma expressão matemática é uma combinação de números, símbolos de operações e símbolos gráficos (parênteses, colchetes, chaves) agrupados para representar um valor ou um cálculo.
 
 ---
 ## Referências
-1. https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra # Khan Academy - The beauty of algebra
+1. [Khan Academy — The beauty of algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra)
