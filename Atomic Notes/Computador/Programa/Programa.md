@@ -1,8 +1,8 @@
-# Software
+# Programa
 
 ---
 ## Definição
-Um conjunto de instruções ou dados que operam o hardware.
+A partir do momento em que um [[Software]] executa algo (ou seja, é interagido) e começa a executar instruções, vira um [[Programa]].
 
 ---
 ## Referências

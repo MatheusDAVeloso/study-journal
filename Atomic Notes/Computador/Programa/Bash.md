@@ -10,4 +10,4 @@ Uma versão melhorada do [[Shell]]. É uma abreviação para Bourne Again [[Shel
 
 ---
 ## Referências
-1. [linuxcommand.org — What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)
+1. [LinuxCommand.org — What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)

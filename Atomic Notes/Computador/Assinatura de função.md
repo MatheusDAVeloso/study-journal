@@ -4,7 +4,7 @@
 # Definição
 
 Uma assinatura de função consiste em tudo o que vem antes do retorno dela — a declaração da 
-função, seu nome e sua [[lista de parâmetros]] — e é mostrada no snippet de código.
+função, seu nome e sua [[Lista de parâmetros]] — e é mostrada no snippet de código.
 
 ---
 # Referências

@@ -1,13 +1,12 @@
 # Terminal Linux
-Antigamente em sistemas Unix-like como Linux, o [[Shell]] era a única interface para o usuário. Na maioria dos sistema Linux, utiliza-se o [[Bash]]. Para podermos interagir com o [[Shell]], utilizamos o [[Terminal]].
+
+---
+## Definição
+O Linux é um sistema [[Unix-like]]. Por isso, na maioria dos sistema Linux, utiliza-se o [[Bash]]. Para podermos interagir com o [[Shell]], utilizamos o [[Terminal]].
 
 ---
 ## **Identificadores**
 Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um superuser (root), ou seja, você pode reescrever ou deletar qualquer arquivo do sistema, dado que o Linux entende que todos seus usuários root são donos do sistema e sabem o que estão fazendo.
-
----
-## **Organização de diretórios**
-Toda navegação de sistema Unix-like começa na pasta root. Que é a primeira pasta. Uma diferença importante para sistema Unix-like do Windows, é que o Windows armazena os diretórios em várias árvores, um para cada dispositivo, o Linux tem apenas um.
 
 ---
 ## **Comandos**
@@ -50,6 +49,5 @@ Utilizar após um comando que traz uma lista.
 
 ---
 ## Referências
-1. Claude (Anthropic) utilizado para verificação e validação de respostas
-2. https://linuxcommand.org/lc3_lts0010.php
-3. https://linuxcommand.org/lc3_lts0020.php
+1. [LinuxCommand.org — What is "the Shell"?](https://linuxcommand.org/lc3_lts0010.php)
+2. [LinuxCommand.org — Navigation](https://linuxcommand.org/lc3_lts0020.php)
