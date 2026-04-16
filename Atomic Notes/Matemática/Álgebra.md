@@ -14,8 +14,8 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 Álgebra é uma palavra árabe que significa restauração ou preenchimento.
 
 ---
-## Utilidade
-É tudo sobre resolver problemas. Com a Álgebra, podemos utilizar formas criativas juntando o que vai se aprendendo como pequenos pedaços de construção para edificar algo maior — por isso há diversas formas de se chegar a uma mesma conclusão.
+## Forma de se trabalhar
+É uma extensão da [[Matemática#Forma de se trabalhar|forma de se trabalhar da matemática]], porém com adição de [[variável]].
 
 ---
 ## Conteúdo
@@ -23,7 +23,7 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 2. **Equação**
 
 ### 1. Expressão algébrica
-É uma [[Matemática#1. Expressão numérica|expressão numérica]] com adição de [[Variável]].
+É uma [[Matemática#1. Expressão numérica|expressão numérica da matemática]] com adição de [[variável]].
 
 > [!EXAMPLE] Exemplo
 > 
@@ -54,4 +54,4 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 ---
 ## Referências
 1. [Khan Academy — Origins of Algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/origins-of-algebra)
-2. [Khan Academy — Creativy Important in Algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/creativity-important-in-algebra)
+2. [Khan Academy — The beauty of algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra)
