@@ -1,8 +1,8 @@
-# Terminal Linux
+# [[Terminal]] [[Linux]]
 
 ---
 ## Definição
-O Linux é um sistema [[Unix-like]]. Por isso, na maioria dos sistema Linux, utiliza-se o [[Bash]]. Para podermos interagir com o [[Shell]], utilizamos o [[Terminal]].
+É um [[Terminal]] do [[Linux]].
 
 ---
 ## **Identificadores**

@@ -1,9 +1,8 @@
-## Criptografia
+# Bios
 
 ---
 ## Definição
-Processo de codificar dados.
-Faz parte do pilar da confidencialidade da Segurança da Informação.
+Sigla para **Basic Input Output System**.
 
 ---
 ## Referências

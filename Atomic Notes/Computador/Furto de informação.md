@@ -16,6 +16,12 @@
 ### 4. Extração de disco
 - Técnica que consiste em abrir o computador, tirar sua unidade de armazenamento e colocar em outro computador para cópia de dados.
 
+### 5. Alteração do boot
+- Técnica que consiste em alterar as configurações da [[Bios]] de um computador para que o boot seja feito sem o secure boot ou que seja feito carregando dados de um pen-drive.
+
+### 6. Ponto cego da vítima
+Com pen-drive contendo [[software]] malicioso, pode-se colocar atrás do computador do usuário sem ele ver, e por não ter [[Criptografia]], as informações são roubadas.
+
 ---
 ## Referências
 1. Aula de Segurança da Informação — Faculdade UniGoiás, abril de 2026.

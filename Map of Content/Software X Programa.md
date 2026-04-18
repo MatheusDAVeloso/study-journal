@@ -8,7 +8,7 @@ Todo [[Programa]] é um [[Software]], mas nenhum [[Software]] é um [[Programa]]
 ## Analogia / Exemplo
 
 >[!EXAMPLE] Exemplo
->Você tem apenas um [[software]] (um aplicativo) em seu computador. Porém pode ter 3 janelas abertas rodando o [[programa]] de um mesmo [[software]].
+>Você tem apenas um [[software]] (um aplicativo) em seu computador. Porém pode ter 3 janelas abertas rodando o [[Programa]] de um mesmo [[software]].
 
 ---
 
