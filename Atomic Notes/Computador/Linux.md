@@ -6,7 +6,7 @@ Linus Torvalds
 
 ---
 ## Definição
-O Linux é um sistema [[Unix-like]], o que acabou adotando o [[Shell]]. Porém na maioria dos sistema Linux, utiliza-se o [[Bash]], uma versão melhorada. Para podermos interagir com o [[Bash]], utilizamos o [[Terminal Linux]].
+O Linux é um sistema [[Unix-like]].
 
 ---
 ## Definição

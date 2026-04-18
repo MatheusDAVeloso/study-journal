@@ -2,7 +2,7 @@
 
 ---
 ## Definição
-É um [[Programa]] chamado "terminal emulator". É uma janela que ao abrir, podemos interagir com o [[Shell]].
+É um [[software]] chamado "terminal emulator". É uma janela que ao abrir, podemos interagir com o [[Shell]].
 
 ---
 ## Comandos

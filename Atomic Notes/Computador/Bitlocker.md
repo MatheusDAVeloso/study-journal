@@ -1,4 +1,5 @@
 # Bitlocker
+#criptografia
 
 ---
 ## Criador/Descobridor
@@ -7,10 +8,6 @@ Microsoft
 ---
 ## Definição
 [[Software]] que atua como uma solução de [[Criptografia]] nativa no Windows em um arquivo, pasta e até volume (partição/disco) inteiro, onde apenas seus usuários possuem acesso.
-
----
-## Utilidade
-Serve como proteção de dados contra [[Furto de informação]] — exceto seção [[Furto de informação#2. Ação externa|2. Ação Externa em Furto de Informação — Deixar o computador aberto sem senha]] — em usuários comuns. 
 
 ---
 ## Desbloqueio
@@ -26,8 +23,6 @@ A [[Criptografia]] pode ser desbloqueada através de pin, porém se esquecer ain
 Em placas-mãe que possuem esse chip, se o mesmo não indicar alteração, o Bitlocker apenas deixa prosseguir. Em caso de alteração, o Bitlocker solicita uma chave de recuperação. 
 
 Ele armazena a metade da chave em seu disco rígido e a outra metade da chave no chip. Ou seja, aquele disco rígido só funciona naquele computador. E somente com essa junção que o Bitlocker irá liberar os seus dados — sendo muito difícil de quebrar essa [[Criptografia]] justamente por estar dividido.
-
-Essas duas tecnologias juntas garantem a confidencialidade, integridade e autenticidade dos dados — [[Segurança da Informação#Pilares|pilares da Segurança da Informação]].
 
 >[!EXAMPLE] Cenários em que a junção dessas tecnologias se mostrou poderosa
 >

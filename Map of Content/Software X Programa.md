@@ -2,7 +2,9 @@
 
 ---
 # Definição
-Todo [[Programa]] é um [[Software]], mas nenhum [[Software]] é um [[Programa]]. 
+Todo [[Programa]] é um [[Software]] em execução, e todo [[Software]] é um [[Programa]] em potencial. O que diferencia um do outro é a ideia de estado. Se em alguma nota for mencionar um dos dois, a ideia central é:
+- Se há potencial de instrução — visto que o código fonte está ali escrito — mas não está sendo interagido por humano ou máquina, é um [[software]].
+- Se é algo que aparece apenas depois de rodar, ou seja, acontece em execução, é um [[programa]].
 
 ---
 ## Analogia / Exemplo

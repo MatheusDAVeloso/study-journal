@@ -2,7 +2,7 @@
 
 ---
 ## Definição
-É um [[Terminal]] do [[Linux]].
+Na maioria dos sistema [[Linux]], utiliza-se a CLI do [[Bash]], e para podermos interagir com ele, utilizamos o [[Terminal]] do [[Linux]].
 
 ---
 ## **Identificadores**
@@ -11,7 +11,7 @@ Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um supe
 ---
 ## **Comandos**
 1. Navegação de diretório
-2. Execução de [[Programa]]
+2. Execução de [[software]]
 3. Limpeza do [[Terminal]]
 4. Filtragem
 
@@ -31,9 +31,9 @@ Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um supe
 
 `mkdir <directory-name>` — make directory
 
-### 2. Execução de [[Programa]]
+### 2. Execução de [[software]]
 
-`<program-name> .` — do sistema ou integrado a ele 
+`<software-name> .` — do sistema ou integrado a ele 
 `./<file-name>` — criado por um usuário
 
 ### 3. Limpeza do [[Terminal]]

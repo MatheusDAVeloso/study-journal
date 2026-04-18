@@ -6,7 +6,7 @@ São sistemas baseados no sistema operacional Unix.
 
 ---
 ## Interface
-Antigamente em sistemas [[Unix-like]], o [[Shell]] era a única interface para o usuário. 
+Antigamente em sistemas Unix-like, o [[Shell]] era a única interface para o usuário. 
 
 ---
 ## **Organização de diretórios**

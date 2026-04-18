@@ -1,8 +1,11 @@
 # Root of trust
+#root_of_trust #si_pilar_da_autenticidade #si_pilar_da_integridade
 
 ---
 ## Definição
-É "quem" ou "o que" que define e garante as próximas camadas de segurança — ou seja, a causa primária de toda uma cadeia de segurança.
+Faz parte do [[Segurança da Informação#2. Pilar da integridade|pilar da integridade]] e o [[Segurança da Informação#3. Autenticidade|pilar da autenticidade da Segurança da Informação]].
+
+É a camada de segurança que define e garante as próximas, sendo então a causa primária de toda uma cadeia de segurança. Ou seja, se essa camada for segura, as próximas camadas de segurança também estarão seguradas — da mesma forma, se essa não estiver, as próximas podem estar comprometidas.
 
 ---
 ## Referências
