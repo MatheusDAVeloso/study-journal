@@ -6,7 +6,7 @@ Um conjunto de instruções ou dados que possuem um potencial de ação sobre um
 
 ---
 ## Utilidade
-Um software bem 
+Um software bem construído, prevê e antecipa bugs e desempenho, além de ser fácil de visualizar mentalmente..
 
 ---
 ## Referências
