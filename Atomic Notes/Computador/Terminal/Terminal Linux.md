@@ -11,7 +11,7 @@ Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um supe
 ---
 ## **Comandos**
 1. Navegação de diretório
-2. Execução de [[software]]
+2. Execução de [[Software]]
 3. Limpeza do [[Terminal]]
 4. Filtragem
 
@@ -31,7 +31,7 @@ Se aparecer '#' no Terminal do Linux ao invés de '$', quer dizer que é um supe
 
 `mkdir <directory-name>` — make directory
 
-### 2. Execução de [[software]]
+### 2. Execução de [[Software]]
 
 `<software-name> .` — do sistema ou integrado a ele 
 `./<file-name>` — criado por um usuário

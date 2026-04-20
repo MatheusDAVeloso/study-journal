@@ -1,7 +1,7 @@
 # Furto de informação
 
 ---
-## Por [[software]]
+## Por [[Software]]
 ### 1. Live CD — Boot por mídia externa
 - Chama-se Live CD porque originalmente na época poderia fazer apenas com CD. Mas hoje em dia inclui pen-drive também.
 - Técnica utilizada onde uma mídia externa vem com um sistema operacional instalado — porém uma versão sem disco, apenas utilizado na memória — e ao ser colocado em um computador, pode-se fazer o boot por ela. E assim pode-se acessar os arquivos no disco.
@@ -13,7 +13,7 @@
 - Técnica que consiste em alterar as configurações da [[bios]] de um computador para que o boot seja feito sem o secure boot ou que seja feito carregando dados de um pen-drive.
 
 ### 4. Ponto cego da vítima
-Com um pen-drive contendo [[software]] malicioso, pode-se colocar atrás do computador do usuário sem ele ver e roubar informações.
+Com um pen-drive contendo [[Software]] malicioso, pode-se colocar atrás do computador do usuário sem ele ver e roubar informações.
 
 ---
 ## Por hardware

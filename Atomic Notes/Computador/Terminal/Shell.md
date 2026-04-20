@@ -2,7 +2,7 @@
 
 ---
 ## Definição
-Um [[software]] que pega comandos do teclado e envia para o sistema operacional, além de executar scripts.
+Um [[Software]] que pega comandos do teclado e envia para o sistema operacional, além de executar scripts.
 
 ---
 ## Referências

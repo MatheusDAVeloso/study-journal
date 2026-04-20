@@ -16,7 +16,7 @@ A [[Criptografia]] pode ser desbloqueada através de pin, porém se esquecer ain
 ---
 ## Cenários de eficácia
 ### 1. Contra vírus keykogger
-- Este vírus por estar apenas no sistema operacional, não consegue pegar o PIN do bitlocker — já que o lugar onde é digitado é numa janela própria do [[software]], que é inicializado antes do sistema operacional.
+- Este vírus por estar apenas no sistema operacional, não consegue pegar o PIN do bitlocker — já que o lugar onde é digitado é numa janela própria do [[Software]], que é inicializado antes do sistema operacional.
 
 ---
 ### Integração com [[TPM]]
