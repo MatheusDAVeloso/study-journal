@@ -10,7 +10,7 @@
 - [[Software]] malicioso
 
 ### 3. Alteração do boot
-- Técnica que consiste em alterar as configurações da [[bios]] de um computador para que o boot seja feito sem o secure boot ou que seja feito carregando dados de um pen-drive.
+- Técnica que consiste em alterar as configurações da [[Bios]] de um computador para que o boot seja feito sem o secure boot ou que seja feito carregando dados de um pen-drive.
 
 ### 4. Ponto cego da vítima
 Com um pen-drive contendo [[Software]] malicioso, pode-se colocar atrás do computador do usuário sem ele ver e roubar informações.

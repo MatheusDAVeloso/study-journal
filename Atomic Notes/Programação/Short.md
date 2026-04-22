@@ -1,4 +1,4 @@
-# SHORT
+# Short
 
 ---
 ## Definição

@@ -1,7 +1,6 @@
 # Cache de CPU
 
 ---
-
 ## Definição
 É uma memória rápida, utilizada pela CPU para acessar dados e instruções frequentes em velocidade extrema.
 

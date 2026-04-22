@@ -1,4 +1,4 @@
-# Dicas de [[matemática]]
+# Dicas de [[Matemática]]
 
 ---
 ## Forma de se trabalhar 
