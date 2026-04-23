@@ -1,8 +1,12 @@
-# Shell
+---
+aliases:
+  - usuário root
+---
+# Superuser
 
 ---
 ## Definição
-Um [[Software]] que pega comandos do teclado e envia para o sistema operacional, além de executar scripts.
+Usuário que poder de reescrever ou deletar qualquer arquivo do sistema.
 
 ---
 ## Referências

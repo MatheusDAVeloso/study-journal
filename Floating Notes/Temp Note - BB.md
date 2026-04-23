@@ -8,3 +8,6 @@ Função de agregação -> quando quer fazer as 4 operações básicas da matem�
 ---
 
 Função 
+
+---- 
+MECE

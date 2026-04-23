@@ -2,7 +2,7 @@
 
 ---
 ## Definição
-Um conjunto de instruções ou dados que possuem um potencial de ação sobre um hardware. Quando temos um arquivo em .apk ou .exe sem executar nenhuma instrução, ou temos o código-fonte, os scripts de automação e até as bibliotecas de terceiros, temos um [[Software]]. 
+Um conjunto de instruções ou dados que possuem um potencial de ação sobre um hardware. Quando temos um arquivo em .apk ou .exe sem executar nenhuma instrução, ou temos o código-fonte, os scripts de automação e até as bibliotecas de terceiros, temos um software. 
 
 ---
 ## Utilidade

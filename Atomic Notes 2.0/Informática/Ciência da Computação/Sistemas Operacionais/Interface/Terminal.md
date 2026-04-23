@@ -1,8 +1,12 @@
+---
+aliases:
+  - terminal emulator
+---
 # Terminal
 
 ---
 ## Definição
-É um [[Software]] chamado "terminal emulator". É uma janela que ao abrir, podemos interagir com o [[Shell]].
+É um [[Software]] que se abre em forma de uma janela, podendo interagir com o [[Shell]].
 
 ---
 ## Comandos
