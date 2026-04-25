@@ -1,8 +1,10 @@
-# tkinter
+# Tkinter
 
 ---
 ## Definição
-Uma biblioteca nativa do [[python]] para criar interfaces gráficas. A referência para instanciar sua classe principal é `Tk()` que se buscar através de `tk.Tk()`.
+Uma biblioteca nativa do [[python]] para criar [[Graphic User Interface|GUI]]. A referência para instanciar sua classe principal é `Tk()` que se buscar através de `tk.Tk()`.
+
+No Tkinter, todo widget precisa saber que é seu pai, criando uma árvore de widgets. Para isso, basta passar um "parent" como argumento de qualquer widget.
 
 ---
 ## Ver uma demo
