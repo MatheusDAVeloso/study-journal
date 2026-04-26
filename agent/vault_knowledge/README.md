@@ -1,63 +1,83 @@
-# Atomic Notes 2.0: Structural Governance & Philosophy
-
-Welcome to the **Atomic Notes 2.0** repository. This vault is engineered for maximum cognitive efficiency, utilizing a strict hierarchical structure designed to scale without generating ambiguity.
+# Atomic Notes 2.0: Governança Estrutural do Conhecimento
 
 ---
 
-## 🏛️ Core Philosophy
+## O Problema
 
-The organization of this vault is governed by the **MECE Principle** (*Mutually Exclusive, Collectively Exhaustive*). This ensures that every note has one—and only one—logical home, preventing "cross-contamination" of concepts and reducing the cognitive load required to find or store information.
+Filósofos, bibliotecários e cientistas debatem há séculos como classificar o conhecimento humano. Aristóteles tentou com suas categorias. Lineu resolveu para a biologia. A CDD resolve para bibliotecas. Nenhum sistema é perfeito — porque o conhecimento é uma **rede**, mas pastas são uma **árvore**.
 
-### 1. Atomicity
-Every note should represent a single, granular concept. If a note starts covering two distinct topics, it must be split (refactored).
+Este vault não pretende encerrar esse debate. Pretende aplicá-lo de forma rigorosa e consistente a um conjunto pessoal de notas, testando se uma taxonomia ontológica — classificar conceitos pela sua **natureza primária**, não pelo seu **contexto de uso** — melhora a qualidade do conhecimento armazenado e recuperado.
 
-### 2. Orthogonality
-Folders represent distinct domains of knowledge. They do not overlap. If you are unsure where a note belongs, the taxonomy needs a clearer definition.
-
-### 3. Hierarchy of Foundations
-We organize knowledge from the **abstract** (Foundations) to the **applied** (Specializations).
+A tensão central: o Princípio MECE exige um lar único para cada nota, mas alguns conceitos são genuinamente transdisciplinares. Toda decisão de classificação aqui é uma decisão filosófica real.
 
 ---
 
-## 📂 The Vault Taxonomy
+## Filosofia Central
 
-### I. [Foundations](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Fundamentos/)
-The bedrock of the vault. These concepts are universal prerequisites that support both Mathematics and Informatics.
-- **Concepts:** Abstraction, Algorithms, Variables.
+### 1. Princípio MECE
+*Mutually Exclusive, Collectively Exhaustive* — cada nota tem um, e apenas um, lar lógico. As categorias não se sobrepõem. Se um conceito parece pertencer a dois lugares, isso indica que a taxonomia precisa ser resolvida, não que o conceito vai para os dois.
 
-### II. [Mathematics](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Matem%C3%A1tica/)
-Pure logical and numerical disciplines. This domain is separate from Informatics to preserve the purity of mathematical theory.
+### 2. Atomicidade
+Cada nota representa um único conceito granular. Se uma nota cobre dois assuntos distintos, ela deve ser dividida. O critério: um subtipo vira nota própria quando tem **comportamento, decisão ou contexto de uso independente**.
 
-### III. [Informatics](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Inform%C3%A1tica/)
-The study of automated information processing. This is subdivided into distinct "Knowledge Families":
+### 3. Taxonomia Acadêmica
+Não usamos divisões arbitrárias. Seguimos a hierarquia científica real. Computação Gráfica e IHC são subáreas da Ciência da Computação. Lógica é subárea da Filosofia. O uso prático não define a natureza do conceito.
 
-#### A. [Computer Science](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Inform%C3%A1tica/Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o/) (The Theoretical Core)
-1. **Computer Architecture:** Logical design and internal systems organization.
-2. **Software Engineering:** Methodology, Design Patterns, and Development Processes.
-3. **Data Structures:** Theoretical management of information in memory.
-4. **Programming:** Code construction, syntax, and implementation.
-5. **Computer Networks:** Data infrastructure and communication protocols.
-6. **Operating Systems:** Hardware management, CLI (Interfaces), and User Governance.
-7. **Information Security:** Cryptography, Trust models, and System protection.
+> `Buffer` é usado em vídeos, em redes, em jogos. Mas sua natureza primária é Arquitetura de Computadores. Ele mora lá.
 
-#### B. [Computer Graphics](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Inform%C3%A1tica/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica/)
-Specialized field focused on visual representation (Polygonal Modeling, 3D tools like Blender).
+### 4. Hierarquia de Fundamentos
+Organizamos do abstrato ao aplicado. `Algoritmo` em sua forma universal mora em `Filosofia/` — não em `Informática/`. `Design de Algoritmos` mora em `Informática/` — porque é a aplicação prática do conceito.
 
-#### C. [Development Tools](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Inform%C3%A1tica/Ferramentas/)
-Universal instruments used for building and debugging. Separated into:
-- **Dev Tools:** (ADB, MinGW, Git).
-- **Security Tools:** (Bitlocker, specialized scanners).
+### 5. Regra 10-15
+Pastas devem ter idealmente entre 10 e 15 arquivos. Se passar disso, a categoria deve ser subdividida. Se ficar abaixo, a subpasta pode não estar justificada ainda.
 
-#### D. [Hardware Techniques](file:///home/matheusdaveloso/Desktop/study-journal/Atomic%20Notes%202.0/Inform%C3%A1tica/T%C3%A9cnicas%20de%20Hardware/)
-The physical world. Practical electronics, chip manipulation (Chip-off), and physical maintenance.
+> A subdivisão acontece quando um **padrão real emerge** — não por antecipação. A taxonomia emerge dos dados, não é imposta antes deles.
 
 ---
 
-## 📏 Maintenance Rules
+## Regras de Manutenção
 
-- **The 10-15 Rule:** Folders should ideally aim for 10-15 files. If a folder contains more than 15 files, analyze if it can be sub-divided to maintain high precision.
-- **Naming Convention:** Use clear, descriptive names. For files, use PascalCase or Space-separated names with proper accents in Portuguese (e.g., `Estrutura de dados.md`).
-- **Linking:** Always utilize internal links (`[[Link]]`) to connect concepts across domains, but ensure the files themselves remain in their MECE-compliant folders.
+**Nomenclatura:** nomes descritivos em português, separados por espaço, com acentuação correta. Ex: `Estrutura de Dados.md`.
+
+**Sufixos de disambiguação:** quando um conceito existe em múltiplos domínios e a nota é específica de um, usar sufixo. Ex: `Aresta (Blender).md`. Quando o conteúdo é geral, sem sufixo.
+
+**Links:** sempre utilizar links internos (`[[Link]]`) para conectar conceitos entre domínios. A pasta é o lar principal; os links capturam a rede. Uma nota pode morar em `Arquitetura de Computadores/` e linkar para `Segurança da Informação/` — a conexão não se perde.
+
+**Referências:** registrar a fonte de cada nota. Notas com fontes de hobby ou secundárias podem precisar de referências acadêmicas no futuro.
+
+**Pastas soltas:** notas sem subpasta definida ficam soltas na pasta pai até o volume revelar o padrão. Nota solta não é problema — é o vault respirando.
 
 ---
-> *"Simplicity is the ultimate sophistication."* — This vault is built to transform information into structured knowledge.
+
+## Estrutura Atual
+
+```
+Conhecimento/
+  Artes/
+  Filosofia/
+  Matemática/
+  Teoria das Cores/
+  Informática/
+    Ciência da Computação/
+      Algoritmo/
+      Arquitetura de Computadores/
+      Computação Gráfica/
+      Engenharia de Software/
+        Architectural Patterns/
+        Design Patterns/
+        Processos/
+        Programação/
+      Estrutura de Dados/
+      Interação Humano-Computador/
+      Redes de Computadores/
+      Segurança da Informação/
+      Sistemas Operacionais/
+    Ferramentas/
+    Linguagens de Programação/
+      Python/
+    Técnicas de Hardware/
+```
+
+---
+
+> *"Definir de que área nasceu um conhecimento ou informação é uma das maneiras mais intrigantes de conhecer a história perdida do ser humano. Juntando conhecimento desde cursos gratuitos de Harvard, a cursos com diplomas de outros países e chegando até vídeos e blogs com poucas visualizações, vemos uma herança de conhecimento, carregada como uma metamorfose assim como a genética é. Ao olharmos e vermos que cada pessoa carrega consigo um significado diferente para uma coisa só, poderíamos pensar: onde que aconteceu a ramificação? E porque alguns interpretam a mesma coisa de forma diferente? O que é a verdade se não um pedaço da história dividida em pequenos pedacinhos entre povos e espalhados por toda a longa história da humanidade."* — Matheus A. Veloso, 2026 — Sem IA.

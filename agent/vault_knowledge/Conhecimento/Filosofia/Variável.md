@@ -10,7 +10,7 @@ As variáveis são letras ou símbolos que representam um valor que pode mudar o
 
 ---
 # Utilidade
-É utilizada para fins de [[abstração]].
+É utilizada para fins de [[Abstração]].
 
 >[!EXAMPLE] Exemplo
 > Ao invés da pessoa A falar para a pessoa B que se:
@@ -22,7 +22,7 @@ As variáveis são letras ou símbolos que representam um valor que pode mudar o
 > e assim continuar a listar, como é infinito, ela nunca acabará de falar.
 > Porém se ela disse que se:
 > 
-> A pessoa B der $x$, a pessoa A retornará $y$, tal que $y = x + 1$, ficará muito fácil de entender conceitualmente, e então [[abstração|abstrair]] todos as infinitas possibilidades para $x$.
+> A pessoa B der $x$, a pessoa A retornará $y$, tal que $y = x + 1$, ficará muito fácil de entender conceitualmente, e então [[Abstração|abstrair]] todos as infinitas possibilidades para $x$.
 
 ---
 # Referências

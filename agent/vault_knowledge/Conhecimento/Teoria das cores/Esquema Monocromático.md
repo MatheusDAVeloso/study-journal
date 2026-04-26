@@ -1,4 +1,4 @@
-# Esquema de [[Cor]] Monocromática
+# Esquema Monocromático
 
 ---
 ## Etimologia

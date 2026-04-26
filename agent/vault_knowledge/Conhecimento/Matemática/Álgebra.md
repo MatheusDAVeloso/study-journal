@@ -15,7 +15,7 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 
 ---
 ## Forma de se trabalhar
-É uma extensão da [[Matemática#Forma de se trabalhar|forma de se trabalhar da matemática]], porém com adição de [[variável]].
+É uma extensão da [[Matemática#Forma de se trabalhar|forma de se trabalhar da matemática]], porém com adição de [[Variável]].
 
 ---
 ## Conteúdo
@@ -23,7 +23,7 @@ Não é tão simples definir quem criou a Álgebra, pois envolve várias pessoas
 2. **Equação**
 
 ### 1. Expressão algébrica
-É uma [[Matemática#1. Expressão numérica|expressão numérica da matemática]] com adição de [[variável]].
+É uma [[Matemática#1. Expressão numérica|expressão numérica da matemática]] com adição de [[Variável]].
 
 > [!EXAMPLE] Exemplo
 > 

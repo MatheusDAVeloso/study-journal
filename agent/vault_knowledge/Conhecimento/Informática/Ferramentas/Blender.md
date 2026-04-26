@@ -2,7 +2,7 @@
 
 ---
 ## Definição
-Um [[Programa]] para [[Modelagem Poligonal]].
+Um [[Software]] para [[Modelagem Poligonal]].
 
 ---
 ## Rererências

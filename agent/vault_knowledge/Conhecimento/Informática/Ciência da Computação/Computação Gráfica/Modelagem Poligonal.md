@@ -6,7 +6,7 @@ Na modelagem poligonal, para renderizar um objeto 3D, utiliza-se de:
 
 - [[Vértices]]
 - [[Aresta]]
-- [[Faces]]
+- [[Face]]
 
 ---
 ## Referências

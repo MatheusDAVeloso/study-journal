@@ -10,7 +10,7 @@ Com evolução de representação
 - 2 x $x$ — Muito fácil de confundir o sinal de multiplicação com uma [[Variável]]
 - $2 \cdot x$ — É utilizável, mas pode confundir com números decimais
 - $2 (x)$ — Não há confusão, e é perfeito para números
-- $2x$ — Não há confusão, mas funciona apenas para [[variável]], porém para elas é a melhor, visto que não há necessidade de escrever "()" toda vez que queira representar uma.
+- $2x$ — Não há confusão, mas funciona apenas para [[Variável]], porém para elas é a melhor, visto que não há necessidade de escrever "()" toda vez que queira representar uma.
 
 ---
 # Referências

@@ -9,10 +9,10 @@
 > [!QUOTE] — atribuída a Galileu Galilei, origem não verificada
 > "A matemática é a linguagem com a qual Deus escreveu o universo" — traduzido do inglês para o português.
 
-"Ou seja, se você existe em um universo criado por Deus e o próprio Deus utilizou de matemática para construir, como você quer viver em sua criação sem saber o básico da base onde você mesmo está pisando — "sem os quais se vaga em vão por um labirinto escuro". É como se você quisesse construir uma peça de Lego porém sem manual nenhum — você até pode conseguir encaixar algumas peças mas você não sabe o que está fazendo e nem onde vai chegar. Porém, como não podemos tocar nessa linguagem e é algo que nós humanos não podemos compreender, simplificamos através da [[abstração]] que a matemática proporciona para podermos fazer anotações a esse livro e compreender muitas de suas infinitas páginas." - Matheus A. Veloso, 2026 — sem utilização de IA para esse raciocínio ou escrita
+"Ou seja, se você existe em um universo criado por Deus e o próprio Deus utilizou de matemática para construir, como você quer viver em sua criação sem saber o básico da base onde você mesmo está pisando — "sem os quais se vaga em vão por um labirinto escuro". É como se você quisesse construir uma peça de Lego porém sem manual nenhum — você até pode conseguir encaixar algumas peças mas você não sabe o que está fazendo e nem onde vai chegar. Porém, como não podemos tocar nessa linguagem e é algo que nós humanos não podemos compreender, simplificamos através da [[Abstração]] que a matemática proporciona para podermos fazer anotações a esse livro e compreender muitas de suas infinitas páginas." - Matheus A. Veloso, 2026 — sem utilização de IA para esse raciocínio ou escrita
 
-> [!EXAMPLE] Exemplo de [[abstração]] que a matemática proporciona
-> "5" — por exemplo — é apenas uma [[abstração]] para representação de quantidade. Parece algo concreto, mas podemos percebemos que "V", "five" e "| | | | |" também representam a mesma ideia, sem mudar o que existe no mundo físico. 
+> [!EXAMPLE] Exemplo de [[Abstração]] que a matemática proporciona
+> "5" — por exemplo — é apenas uma [[Abstração]] para representação de quantidade. Parece algo concreto, mas podemos percebemos que "V", "five" e "| | | | |" também representam a mesma ideia, sem mudar o que existe no mundo físico. 
 > 
 > Veja também como isso se aplica em
 > - [[Representação de multiplicação]]

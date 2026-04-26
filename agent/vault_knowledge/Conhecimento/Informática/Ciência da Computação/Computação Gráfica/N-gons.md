@@ -1,20 +1,8 @@
-# Faces
+# N-gons
 
 ---
 ## Definição
-Junção de 3 ou mais [[Aresta]], sendo visíveis na renderização.
-
----
-## Tipos
-Dependendo da quantidade de arestas utilizadas para se formar uma face, temos:
-
-- Triângulo — ou tris — junção de 3 [[Aresta]], sendo mais fácil de calcular
-- Quadrado — ou quads — junção de 4 [[Aresta]], sendo mais fácil de deformar
-- N-gons — mais de 4 [[Aresta]]
-
----
-## Normais
-É a direção ou linha perpendicular em relação aquela face.
+Uma [[Face]] com mais de 4 [[Aresta]]
 
 ---
 ## **Quando usar N-gons**
