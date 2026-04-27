@@ -2,9 +2,13 @@
 
 ---
 ## Definição
-Uma biblioteca nativa do [[python]] para criar [[Graphic User Interface|GUI]]. A referência para instanciar sua classe principal é `Tk()` que se buscar através de `tk.Tk()`.
+Uma biblioteca nativa do [[Python]] para criar [[Graphic User Interface|GUI]]. A referência para instanciar sua classe principal é `Tk()`.
 
-No Tkinter, todo widget precisa saber que é seu pai, criando uma árvore de widgets. Para isso, basta passar um "parent" como argumento de qualquer widget.
+---
+## Widgets
+No Tkinter, todo widget precisa saber quem é seu pai, pois ele funciona como uma árvore de widgets. Para isso, basta passar um "parent" como argumento de qualquer widget — todo primeiro parâmetro de um widget é sua referência de "parent".
+
+Todo widget deve chamar a função "pack" para poder renderizar — `widget.pack()`.
 
 ---
 ## Ver uma demo
@@ -37,5 +41,14 @@ Colocar título na janela — string entre aspas duplas
 * `bg=<hexcolor>` — cor de fundo
 
 ---
+## tk.Text()
+
+### Métodos
+`insert()`
+* O primeiro argumento é o onde posicionar (utilizando números float entre strings)
+* O segundo é o texto a ser inserido
+
+---
 ## Referências
 1. [DEVMEDIA — Tkinter: Interfaces gráficas em Python](https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956)
+2. [Stack Overflow — TypeError: insert() missing 1 required positional argument: 'chars' duplicate](https://stackoverflow.com/questions/43436404/typeerror-insert-missing-1-required-positional-argument-chars)
