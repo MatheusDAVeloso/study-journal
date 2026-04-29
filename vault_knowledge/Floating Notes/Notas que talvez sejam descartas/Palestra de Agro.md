@@ -22,29 +22,7 @@ Identificador de pragas e doenças através de sensores -> uma possível soluç�
 
 ---
 
-Empreender -> como posso resolver? Quando se incomoda com um problema e começa a pensar numa solução
-
----
-
-Você já viu algo que poderia ser melhor?
-Papel de um empreender -> se incomodar com coisas e propor melhorias
-* Identificar um problema
-* Criar uma solução
-* Testar
-* Ajustar
-* Melhorar
-
-Empreender é transformar uma ideia em ação
-
----
-
 O que é uma startup precisa ser uma solução de pessoas, inovação para um problema e algo escalável - potencial de crescimento
 
----
 
-Inovar é melhorar algo que já existe ou criar uma forma de resolver  um problema.
-
----
-
-Não é o tamanho do problema, é a solução
 
