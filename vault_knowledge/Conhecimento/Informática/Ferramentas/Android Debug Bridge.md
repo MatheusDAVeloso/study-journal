@@ -30,4 +30,15 @@ Mensagens de erros comuns e soluções:
 - Erro: `failed to authenticate to <ip-device>`
 - Solução: ir em "Opção de Desenvolvedores" e desligar e ligar o "USB debbuging"
 
+---
+## [[Shell]] package manager
+Gerenciador de pacotes através de [[shell]]
 
+Listar **package names**
+`adb shell pm list packages`
+
+---
+## Limpar cache de um app
+Primeiro precisa pegar o nome do "package name" e então rodar algum dos seguintes comando:
+* `adb shell pm clear <package-name>` — limpa todos os dados, como se fosse inicialização nova
+* `adb shell pm clear --cache-only <package-name>` — limpa apenas o cache
