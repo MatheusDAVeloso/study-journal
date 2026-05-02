@@ -1,4 +1,5 @@
 # Variável
+É puramente uma [[abstração]] simbólica.
 
 ---
 ## Etimologia

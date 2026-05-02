@@ -6,14 +6,14 @@
 
 ---
 ## [[Construtor]]
-* O [[construtor]] do python é uma função "`__init()__`".
+* O [[construtor]] do python é declarado da seguinte forma: `__init()__`.
 * O primeiro argumente deve ser `self`
 * Não tem retorno
 
 ---
-## Escopo de [[Variável]]
-* Para acessar variável em qualquer lugar em uma classe, deve utilizar `self`.
-* Não precisa declarar uma variável para poder usar, já pode usar direto.
+## Escopo de [[Variável na Informática|Variável]]
+* Para acessar variável em qualquer lugar em uma [[Classe]], deve utilizar `self`.
+* Não precisa declarar uma [[Variável na Informática|variável]] para poder usar, já pode usar direto.
 	* Ex: `self.text = 'Hello, World!'`
 
 ---
@@ -32,7 +32,7 @@ Especifica o que quer importar de uma biblioteca.  Se `<filter>` for `*`, import
 ## Erros de compilação
 
 **`TypeError: 'module' object is not callable`**
-	Quando se vai importar um arquivo local ou biblioteca nativa como : `import <libraby> as <alias>`, `<alias>` será a biblioteca, não a classe dessa biblioteca. Para pode instanciar a classe, deve-se buscar a classe — `val a = <alias>.Alias()`
+	Quando se vai importar um arquivo local ou biblioteca nativa como : `import <libraby> as <alias>`, `<alias>` será a biblioteca, não a [[Classe]] dessa biblioteca. Para pode instanciar a [[Classe]], deve-se buscar a [[Classe]] — `val a = <alias>.Alias()`
 
 ---
 ## Referências

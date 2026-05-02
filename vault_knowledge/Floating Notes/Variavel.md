@@ -1,1 +1,0 @@
-Se não guardar um Objeto em uma variável, ele é criado e destruído no mesmo instante

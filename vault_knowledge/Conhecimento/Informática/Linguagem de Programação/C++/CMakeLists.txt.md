@@ -28,7 +28,7 @@ Em projetos pequenos, um simples comando de compilação resolve como `g++ main.
 Primeiro precisa incluir um módulo que não vem ativo por padrão, mas é build-in do CMake: o `include(FetchContent)`
 
 **Após isso, precisa declarar de onde vem a biblioteca**
-"raylib" será usado como exemplo. Primeiro chamar a função — isso apenas está registrando onde será feito a consulta, não está baixando ainda.
+"raylib" será usado como exemplo. Para isso deve se chamar uma [[Função]] — isso apenas está registrando onde será feito a consulta, não está baixando ainda.
 ```CMake
 FetchContent_Declare(
 	raylib <- aqui é onde você vai dar um apelido para a biblioteca
@@ -39,7 +39,7 @@ FetchContent_Declare(
 Sempre trave em uma versão específica, pois se deixar sem pega a versão mais recente pode quebrar o projeto com uma atualização imprevista.
 
 **Agora precisa baixar a biblioteca**
-O nome utilizado para identificar a biblioteca no passo anterior será passado para a seguinte função fazer o download: `FetchContent_MakeAvailable(raylib)`
+O nome utilizado para identificar a biblioteca no passo anterior será passado para a seguinte [[Função]] fazer o download: `FetchContent_MakeAvailable(raylib)`
 
 **E agora precisa linkar a biblioteca externa**
 `target_link_libraries(ProjectName raylib)`
@@ -47,6 +47,6 @@ O nome utilizado para identificar a biblioteca no passo anterior será passado p
 
 ### **Criar executável**
 `add_executable(ProjectName main.cpp)`
-O primeiro parâmetro deve ser o mesmo em `project(ProjectName)`
+O primeiro [[Função#Argumento|argumento]] deve ser o mesmo em `project(ProjectName)`
 
-O primeiro parâmetro deve ser o mesmo declarado em `project(ProjectName)` e o segundo é o caminho do arquivo main.cpp
+O primeiro [[Função#Argumento|argumento]] deve ser o mesmo declarado em `project(ProjectName)` e o segundo é o caminho do arquivo main.cpp

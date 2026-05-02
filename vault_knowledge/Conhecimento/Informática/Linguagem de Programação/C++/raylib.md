@@ -8,12 +8,12 @@ No raylib, a tela é como um canvas, a cada frame você redesenha tudo do zero �
 ## Janela
 **Iniciar uma janela**
 `InitWindow(800, 600, "CPlusPlusTheGame");`
-- O primeiro parâmetro é a altura
-- O segundo parâmetro é a largura
-- O terceiro parâmetro é o nome da janela
+- O primeiro [[Função#Argumento|argumento]] é a altura
+- O segundo [[Função#Argumento|argumento]] é a largura
+- O terceiro [[Função#Argumento|argumento]] é o nome da janela
 
 Após isso, é necessário um gameloop, se não a janela fecha.
-Para se ter um, basta utilizar a função `WindowShouldClose()` da seguinte maneira:
+Para se ter um, basta utilizar a [[Função]] `WindowShouldClose()` da seguinte maneira:
 
 ```
 while (!WindowShouldClose()) {
@@ -44,7 +44,7 @@ Dentro de um frame:
 Para ver qualquer coisa 3D aparecer no jogo, é necessário uma câmera.
 
 **Inicializar uma câmera**
-Para declarar uma câmera com todos os atributos zerados é assim `Camera3D camera = {0}` — uma câmera é uma struct do raylib com várias propriedades.
+Para declarar uma câmera com todos os atributos zerados é assim `Camera3D camera = {0}` — uma câmera é uma struct do raylib com várias [[Classe#Propriedade|propriedades]].
 
 Campo a campo:
 **Posição** no mundo — `camera.position = (Vector3){10.0f, 10.0f, 10.0f};`

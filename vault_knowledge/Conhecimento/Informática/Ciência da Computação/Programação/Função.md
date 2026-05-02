@@ -8,9 +8,19 @@ Uma função é um bloco de código contido que realiza uma tarefa específica. 
 Uma assinatura de função consiste em tudo o que vem antes do bloco de execução dela — geralmente a declaração da função, seu nome e sua **Lista de Parâmetros**.
 
 ---
+## Parâmetro
+
+Um parâmetro é uma [[Variável na Informática|variável]] definida na assinatura de uma função que serve como espaço reservado para o dado de entrada — chamado de argumento — que será passado para o corpo de uma função quando ela for chamada. Sendo uma [[Variável na Informática|variável]], seu ciclo de vida geralmente se restringe ao escopo de execução daquela função.
+
+---
 ## Lista de Parâmetros
 
 Os parâmetros definidos na assinatura da função, normalmente separados por vírgulas, formam a chamada "lista de parâmetros". Eles definem quais dados a função espera receber quando for instanciada.
+
+---
+## Argumento
+
+Um argumento é o valor real (concreto) que é passado para a função no momento em que ela é chamada (invocada). Enquanto o parâmetro é a [[variável]] declarada na assinatura, o argumento é o dado que preenche essa [[variável]] durante a execução.
 
 ---
 ## Argumentos Nomeados
