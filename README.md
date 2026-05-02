@@ -33,6 +33,12 @@ Pastas devem ter idealmente entre 10 e 15 arquivos. Se passar disso, a categoria
 
 > A subdivisão acontece quando um **padrão real emerge** — não por antecipação. A taxonomia emerge dos dados, não é imposta antes deles.
 
+### 6. Consolidação de Contexto (Otimização para LLMs/RAG)
+Evitamos a granularidade extrema. Se um conceito menor não rende parágrafos robustos por si só (ex: "Assinatura" e "Lista de Parâmetros"), ele não se torna uma nota isolada, mas sim um subtítulo (`##`) dentro de um conceito maior e unificado (ex: `Função.md`). Isso fornece blocos de contexto ricos e coesos para modelos de linguagem (LLMs locais como Ollama) durante o processo de RAG, evitando a fragmentação de busca.
+
+### 7. Raiz Única e Herança (Ontologia Rígida)
+Para evitar alucinações e ambiguidades da IA sobre conceitos polissêmicos (ex: "Abstração"), forçamos que cada conceito tenha uma **única casa matriz** atrelada à sua disciplina de origem (como a Filosofia). O uso do termo em outras áreas (como "Abstração em POO") é tratado estritamente como uma *aplicação* ou *adaptação* da raiz primária. Isso treina o modelo a responder de forma estruturada.
+
 ---
 
 ## Regras de Manutenção
@@ -49,35 +55,5 @@ Pastas devem ter idealmente entre 10 e 15 arquivos. Se passar disso, a categoria
 
 ---
 
-## Estrutura Atual
-
-```
-Conhecimento/
-  Artes/
-  Filosofia/
-  Matemática/
-  Teoria das Cores/
-  Informática/
-    Ciência da Computação/
-      Algoritmo/
-      Arquitetura de Computadores/
-      Computação Gráfica/
-      Engenharia de Software/
-        Architectural Patterns/
-        Design Patterns/
-        Processos/
-        Programação/
-      Estrutura de Dados/
-      Interação Humano-Computador/
-      Redes de Computadores/
-      Segurança da Informação/
-      Sistemas Operacionais/
-    Ferramentas/
-    Linguagens de Programação/
-      Python/
-    Técnicas de Hardware/
-```
-
----
 
 > *"Definir de que área nasceu um conhecimento ou informação é uma das maneiras mais intrigantes de conhecer a história perdida do ser humano. Juntando conhecimento desde cursos gratuitos de Harvard, a cursos com diplomas de outros países e chegando até vídeos e blogs com poucas visualizações, vemos uma herança de conhecimento, carregada como uma metamorfose assim como a genética é. Ao olharmos e vermos que cada pessoa carrega consigo um significado diferente para uma coisa só, poderíamos pensar: onde que aconteceu a ramificação? E porque alguns interpretam a mesma coisa de forma diferente? O que é a verdade se não um pedaço da história dividida em pequenos pedacinhos entre povos e espalhados por toda a longa história da humanidade."* — Matheus A. Veloso, 2026 — Sem IA.

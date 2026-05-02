@@ -1,4 +1,4 @@
-# Member Initializar List
+# Member Initializer List
 
 ---
 ## Definição
