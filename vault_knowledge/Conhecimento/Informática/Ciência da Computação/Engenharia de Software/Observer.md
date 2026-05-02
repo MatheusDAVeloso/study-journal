@@ -5,10 +5,10 @@
 Um design pattern que define uma relação de **1 para n** entre objetos, onde um Publisher notifica automaticamente seus Subscribers quando seu estado muda.
 
 ---
-## Problema em que se propõe resolver
-Uma [[Classe]] Leitor precisa verificar em uma [[Classe]] Jornal se uma flag "Nova Matéria" foi adicionada. Ao invés da Leitor ficar perguntando várias vezes se esta flag mudou, a [[Classe]] que guarda essa [[Variável na Informática|variável]] poderia enviar uma notificação para a que quer receber quando "Nova Matéria" for verdadeira.
+## Problema em que se propõe resolver — Analogia
+Um leitor precisa saber se há uma nova matéria em um Jornal local. Ao invés do leitor ficar perguntando várias vezes se há uma nova matéria, o Jornal agora possui um sistema de notificação que vai de casa em casa avisar quando há uma nova matéria, já que ele é o dono daquele objeto.
 
-Porém se Jornal começar a notificar qualquer [[Classe]], gastará recursos a toa. A solução é criar [[Função]] de "subscribe" e "unsubscribe" para dar escolhar a quem quiser ouvir ou não.
+Porém se o Jornal começar a notificar qualquer casa, gastará seus recursos a toa. A solução é o Jornal possuir opções de se inscrever e desinscrever para dar opção a quem quer receber aquele objeto ou não. 
 
 ---
 ## Referências

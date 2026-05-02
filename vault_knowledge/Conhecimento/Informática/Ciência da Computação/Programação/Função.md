@@ -20,7 +20,7 @@ Os parâmetros definidos na assinatura da função, normalmente separados por v�
 ---
 ## Argumento
 
-Um argumento é o valor real (concreto) que é passado para a função no momento em que ela é chamada (invocada). Enquanto o parâmetro é a [[variável]] declarada na assinatura, o argumento é o dado que preenche essa [[variável]] durante a execução.
+Um argumento é o valor real (concreto) que é passado para a função no momento em que ela é chamada (invocada). Enquanto o parâmetro é a [[Variável na Informática|variável]] declarada na assinatura, o argumento é o dado que preenche essa [[Variável na Informática|variável]] durante a execução.
 
 ---
 ## Argumentos Nomeados

@@ -12,7 +12,7 @@
 
 ---
 ## Escopo de [[Variável na Informática|Variável]]
-* Para acessar variável em qualquer lugar em uma [[Classe]], deve utilizar `self`.
+* Para acessar [[Variável na Informática|variável]] em qualquer lugar em uma [[Classe]], deve utilizar `self`.
 * Não precisa declarar uma [[Variável na Informática|variável]] para poder usar, já pode usar direto.
 	* Ex: `self.text = 'Hello, World!'`
 

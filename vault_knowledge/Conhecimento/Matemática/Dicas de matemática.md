@@ -18,4 +18,4 @@ Deve se ter em mente que há várias formas de se mostrar uma mesma representaç
 ---
 ## Referências
  1. [Khan Academy — The beauty of algebra](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:algebra-overview-history/v/the-beauty-of-algebra)
-2. [Khan Academy — Evaluating expressions with two variables: fractions & decimals](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/v/evaluating-expressions-in-two-variables-with-decimals-and-fractions)
+ 2. [Khan Academy — Evaluating expressions with two variables: fractions & decimals](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:foundation-algebra/x2f8bb11595b61c86:substitute-evaluate-expression/v/evaluating-expressions-in-two-variables-with-decimals-and-fractions)
