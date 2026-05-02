@@ -5,8 +5,8 @@
 - `py <binary-path>`
 
 ---
-## Construtor
-* O construtor do python é uma função "`__init()__`".
+## [[Construtor]]
+* O [[construtor]] do python é uma função "`__init()__`".
 * O primeiro argumente deve ser `self`
 * Não tem retorno
 
