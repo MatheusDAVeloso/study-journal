@@ -8,7 +8,7 @@
 ## Conceitos
 ### Criação de class/struct
 **class** — utilizado para guardar métodos e funções, com o padrão privado
-**struct** — utilizado da mesma forma que uma classe, porém o padrão é publico.
+**struct** — utilizado da mesma forma que uma classe, porém o padrão é publico. Porém struct não é lugar para executar código. Se quiser executar código, deve ser dentro do construtor
 
 **construtor (recebe o mesmo nome da classe)** — utilizado para criar instâncias
 **destrutor (recebe o mesmo nome da classe com a adição de um "~" antes)** — utilizado para liberar memória de forma segura
