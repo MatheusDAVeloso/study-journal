@@ -1,0 +1,1 @@
+Adicionar coisas a esse path permite rodar comando no terminal
