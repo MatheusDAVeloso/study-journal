@@ -6,7 +6,7 @@ aliases:
 
 ---
 ## Definição
-Usuário que poder de reescrever ou deletar qualquer arquivo do sistema.
+Usuário que poder de reescrever ou deletar qualquer arquivo de um sistema operacional.
 
 ---
 ## Referências
