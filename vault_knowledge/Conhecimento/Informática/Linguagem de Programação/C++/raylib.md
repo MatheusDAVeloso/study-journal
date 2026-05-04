@@ -41,7 +41,19 @@ EndDrawing();
 ```
 
 ---
-## 3. Câmera e Modo 3D
+## 3. Desenhando um Cubo
+```cpp
+// Parâmetros:
+// Posição do mundo
+// Largura
+// Altura
+// Profundidade
+// Cor
+DrawCube({0.0f, 0.0f, 0.0f}, 2.0f, 2.0f, 2.0f, RED)
+```
+
+---
+## 4. Câmera e Modo 3D
 
 Para ver qualquer coisa 3D aparecer no jogo, é obrigatório instanciar e configurar uma Câmera, além de colocar os comandos de desenho dentro do modo 3D.
 
@@ -64,7 +76,7 @@ EndMode3D();
 ```
 
 ---
-## 4. Solução de Problemas
+## 5. Solução de Problemas
 
 > [!BUG] O VsCode não encontra o raylib.h
 > **Erro:** `#include errors detected. Please update your includePath.`
