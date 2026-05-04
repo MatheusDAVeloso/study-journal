@@ -1,6 +1,6 @@
 # Roteador
-Os roteadores podem ter canais fixos ou podem ficar trocando de canais se verem que há interferência. 
-
+Os roteadores podem ter canais fixos ou podem ficar trocando de canais se verem que há interferência.  Ao trocar de canal, ele desconecta todos os [[Host]] e ao entrar em um novo canal, reconecta todos novamente — e isso toda vez que acha uma interferência. Isso causa interferências, por exemplo, o download cair de 30MB para 5MB.
+ 
 ---
 ## Potência de sinal
 O que pode influenciar a diminuição da potência dos roteadores
